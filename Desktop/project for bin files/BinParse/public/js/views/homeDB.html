@@ -1,0 +1,60 @@
+<div class="row ">
+    <div class="col-lg-6">
+        <div  class="box box-solid box-primary" style="height: 450px">
+            <div class="box-header">
+                <div class='box-title'>Upload DSP</div>
+            </div>
+            <div class="box-body" >
+                <form action="http://localhost:3000/profile/DSP" method ="post" enctype="multipart/form-data">
+                    <div class="col-lg-12">
+                        
+                        <h5>Upload</h5><input type="file" accept=".xlsx,.xls,.csv ,.bin,.txt" name="DSP" >
+                    </div>
+                    <div class="col-lg-12">
+                        <input type="text" placeholder="DSP version" name="DSP_ver">
+                    </div>
+                    <div class="col-lg-4">
+                        <input type="submit"
+                               data-bind="
+                       ojComponent: { component: 'ojButton', label: 'Submit' }"/>           
+                    </div>
+                </form> 
+                <div class="col-lg-12">
+                    <form action="http://localhost:3000/profile/0000/DSP" method ="get" enctype="multipart/form-data">
+                        <input type="submit"
+                               data-bind="
+                       ojComponent: { component: 'ojButton', label: 'Download' }"/>     
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div  class="box box-solid box-primary" style="height: 450px">
+            <div class="box-header">
+                <div class='box-title'>Upload LCP</div>
+            </div>
+            <div class="box-body" >
+                <form action="http://localhost:3000/profile/LPC" method ="post" enctype="multipart/form-data">
+                    <div class="col-lg-4">
+                        <input type="file" accept=".xlsx,.xls,.csv ,.bin,.txt" name="LPC">
+                    </div>
+                    <div class="col-lg-4">
+                        <input type="text" placeholder="LCP version" name="LPC_ver">
+                    </div>
+                    <div class="col-lg-4">
+                        <input type="submit"
+                               data-bind="
+                       ojComponent: { component: 'ojButton', label: 'Submit' }"/>           
+                    </div>
+                </form> 
+                <div class="col-lg-12">
+                    <form action="http://localhost:3000/profile/0000/LPC" method ="get" enctype="multipart/form-data">
+                        <input type="submit"
+                               data-bind="
+                       ojComponent: { component: 'ojButton', label: 'Download' }"/>     
+                    </form>
+                </div>    </div>
+        </div>
+    </div>
+</div>

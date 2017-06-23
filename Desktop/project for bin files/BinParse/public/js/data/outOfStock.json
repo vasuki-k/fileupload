@@ -1,0 +1,22 @@
+[
+  {
+    "TRANSIT_TIME": "Levis Shirts",
+    "NUMBER_OF_ASSETS": 9
+  },
+  {
+    "TRANSIT_TIME": "Levis T-Shirt",
+    "NUMBER_OF_ASSETS": 18
+  },
+  {
+    "TRANSIT_TIME":"U.S Pollo Shirt",
+    "NUMBER_OF_ASSETS": 25
+  },
+  {
+    "TRANSIT_TIME": "Kurti",
+    "NUMBER_OF_ASSETS": 31
+  },
+  {
+    "TRANSIT_TIME": " Nike Jacket",
+    "NUMBER_OF_ASSETS": 14
+  }
+]

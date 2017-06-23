@@ -1,0 +1,250 @@
+[
+    {
+    "SHELF_ID": "F1S1",
+    "ITEMS": [
+      {
+        "NAME": "Wrangler Regular Jeans",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "New-Port Skinny jeans",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Flying-Machine BootCut Pant",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "NumeroUno",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "AllenSolly",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "ParkAvenue",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  },
+  
+  {
+    "SHELF_ID": "F1S2",
+    "ITEMS": [
+      {
+        "NAME": "New-Port Skinny jeans",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Puma Men's Polo Shirt",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Reebok Men's Round Neck T Shirt",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Rodid Solid Casual Denim Blue Shirt",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Vero Lie Casual Shirt ",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Wrangler Regular Jeans",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  },
+  {
+    "SHELF_ID": "F1S3",
+    "ITEMS": [
+      {
+        "NAME": "U.S Pollo Association",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "adidas Synthetic Polo Shirts",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "reebok tshirt",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Wrangler Skinny Jeans",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Puma Men's Polo Shirt",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Flying-Machine BootCut Pant",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  },
+  {
+    "SHELF_ID": "F2S1",
+    "ITEMS": [
+      {
+        "NAME": "Aurelia Printed Kurta",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Aurelia Straight Kurta",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Flying-Machine BootCut Pant",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Jealous21 Cropped Jeans",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Jealous21 Slim Jeans",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Jealous21 printed T-Shirt",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  },
+  
+  {
+    "SHELF_ID": "F121",
+    "ITEMS": [
+      {
+        "NAME": "New-Port Skinny jeans",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Puma Men's Polo Shirt",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Levis2",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Arrow",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Vero Lie Casual Shirt ",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Wrangler Regular Jeans",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  },{
+    "SHELF_ID": "F2S3",
+    "ITEMS": [
+      {
+        "NAME": "Wrangler Skinny Jeans",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "adidas Synthetic Polo Shirts",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "reebok tshirt",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Wrangler Skinny Jeans",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Puma Men's Polo Shirt",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Flying-Machine BootCut Pant",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  },
+  
+  {
+    "SHELF_ID": "F2S4",
+    "ITEMS": [
+      {
+        "NAME": "New-Port Skinny jeans",
+        "COUNT": 10,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Puma Men's Polo Shirt",
+        "COUNT": 8,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Reebok Men's Round Neck T Shirt",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Rodid Solid Casual Denim Blue Shirt",
+        "COUNT": 2,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Vero Lie Casual Shirt ",
+        "COUNT": 5,
+        "TOTAL": 12
+      },
+      {
+        "NAME": "Wrangler Regular Jeans",
+        "COUNT": 2,
+        "TOTAL": 12
+      }
+    ]
+  }
+  
+]
