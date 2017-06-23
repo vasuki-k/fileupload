@@ -6,9 +6,16 @@
         
     </head>
     <body>
-        <form action="http://localhost:3000/profile" method ="post" enctype="multipart/form-data">
-        <input type="file" accept=".xlsx,.xls,.csv" name="avatar" id="myfile">
+        <form action="http://localhost:3000/profile/DSP" method ="post" enctype="multipart/form-data">
+        <input type="file" accept=".xlsx,.xls,.csv ,.bin,.txt" name="DSP">
+        <input type="text" placeholder="DSP version" name="DSP_ver">
         <input type="submit">
        </form>
+        <form action="http://localhost:3000/profile/LPC" method ="post" enctype="multipart/form-data">
+        <input type="file" accept=".xlsx,.xls,.csv ,.bin,.txt" name="LPC">
+         <input type="text" placeholder="LCP version" name="LPC_ver">
+        <input type="submit">
+       </form>
+
     </body>
 </html>
